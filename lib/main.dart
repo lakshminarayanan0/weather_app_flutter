@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:new_one/weather_screen.dart';
 
 void main() {
-  //only for testing purpose
   runApp(const MyApp());
 }
 
